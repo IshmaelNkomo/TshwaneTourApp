@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24610135260",
+    "firebase_url": "https://tshwanetourapp.firebaseio.com",
+    "project_id": "tshwanetourapp",
+    "storage_bucket": "tshwanetourapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24610135260:android:29793fb2592f20be",
+        "android_client_info": {
+          "package_name": "com.example.admin.tshwanetourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24610135260-168o5puni9u8qc4sh9habdgoudb2jgdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.tshwanetourapp",
+            "certificate_hash": "30022b9a273b1c6a3ce193ab571430c43ef9c071"
+          }
+        },
+        {
+          "client_id": "24610135260-rekjk0dnaluqiat5ov54apl5ifpeo28t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHTjIQpMqXBsnZhfbiGpPVnJ7ChDcJWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24610135260-rekjk0dnaluqiat5ov54apl5ifpeo28t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
